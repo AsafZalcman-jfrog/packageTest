@@ -1,5 +1,5 @@
 package world
 
-func world() string {
+func World() string {
     return "world"
 }
